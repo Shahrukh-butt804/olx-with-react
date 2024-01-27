@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/olx-with-react/static/css/main.f41f7adc.css",
+    "main.js": "/olx-with-react/static/js/main.67d7c764.js",
+    "static/js/787.2fd53028.chunk.js": "/olx-with-react/static/js/787.2fd53028.chunk.js",
+    "static/media/appPic.png": "/olx-with-react/static/media/appPic.f58748e44b2d684a5b19.png",
+    "index.html": "/olx-with-react/index.html",
+    "main.f41f7adc.css.map": "/olx-with-react/static/css/main.f41f7adc.css.map",
+    "main.67d7c764.js.map": "/olx-with-react/static/js/main.67d7c764.js.map",
+    "787.2fd53028.chunk.js.map": "/olx-with-react/static/js/787.2fd53028.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f41f7adc.css",
+    "static/js/main.67d7c764.js"
+  ]
+}
